@@ -1,1 +1,4 @@
-# cookbook-nginx
+# mynginx
+
+TODO: Enter the cookbook description here.
+

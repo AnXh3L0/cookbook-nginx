@@ -5,8 +5,6 @@
     "path": ".delivery/build_cookbook"
   },
   "skip_phases": [],
-  "job_dispatch": {
-    "version": "v2"
-  },
+  "build_nodes": {},
   "dependencies": []
 }
